@@ -1,2 +1,2 @@
-This project demonstrates collaborative GitHub workflow using pull requests.
+This project demonstrates collaborative GitHub workflow using pull and forks
 
